@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:so_group/core/router/router.dart';
 import 'package:so_group/view/home/home_page.dart';
-import 'package:so_group/view/home/profile/edit/profile_edit.dart';
 import 'package:so_group/view/registration/registration_page.dart';
 
 import 'core/service/notification_service/notification.dart';
